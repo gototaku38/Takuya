@@ -5,7 +5,9 @@ String[] a={"dog","cat","mokey","fox","turtle"};
 
 try{
 
+
 for(int i=0;i<=6;i++){
+
 
 System.out.println(a[i]);
 }
