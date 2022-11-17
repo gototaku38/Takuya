@@ -5,7 +5,7 @@ String[] a={"dog","cat","mokey","fox","turtle"};
 
 try{
 
-for(int i=0;i<=7;i++){
+for(int i=0;i<=;i++){
 
 System.out.println(a[i]);
 }
